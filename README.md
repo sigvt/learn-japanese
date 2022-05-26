@@ -6,6 +6,7 @@
 
 ## Lessons
 
+- [Lui Sensei's Japanese Lesson with Zeta](https://www.youtube.com/watch?v=IbWANM6p9ok)
 - [Lui Sensei's Japanese Lesson with Fauna](https://www.youtube.com/watch?v=Eo6HN7aBT-Y)
 - [Lui Sensei's Japanese Lesson with Mumei](https://www.youtube.com/watch?v=qnj_Sb3LAK4)
 - [Lui Sensei's Japanese Lesson with Calliope](https://www.youtube.com/watch?v=npdJmuzPPaA)
