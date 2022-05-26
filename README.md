@@ -4,6 +4,12 @@
 
 > soon™️
 
+## Lessons
+
+- [Lui Sensei's Japanese Lesson with Fauna](https://www.youtube.com/watch?v=Eo6HN7aBT-Y)
+- [Lui Sensei's Japanese Lesson with Mumei](https://www.youtube.com/watch?v=qnj_Sb3LAK4)
+- [Lui Sensei's Japanese Lesson with Calliope](https://www.youtube.com/watch?v=npdJmuzPPaA)
+
 ## Usual Resources
 
 ### Guide
