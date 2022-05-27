@@ -11,6 +11,11 @@
 - [Lui Sensei's Japanese Lesson with Mumei](https://www.youtube.com/watch?v=qnj_Sb3LAK4)
 - [Lui Sensei's Japanese Lesson with Calliope](https://www.youtube.com/watch?v=npdJmuzPPaA)
 
+## Guide
+
+- [The Basic Hololive JP dictionary for newcomers! : Hololive](https://www.reddit.com/r/Hololive/comments/k2dfz8/the_basic_hololive_jp_dictionary_for_newcomers/)
+- [A guide to basic written Hololive Japanese : Hololive](https://www.reddit.com/r/Hololive/comments/icgxaq/a_guide_to_basic_written_hololive_japanese/)
+
 ## Usual Resources
 
 ### Guide
