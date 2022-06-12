@@ -26,8 +26,9 @@
 
 ### Learning App
 
+- [renshuu.org](https://www.renshuu.org/)
 - [WaniKani](https://www.wanikani.com/)
-- [Anki - powerful, intelligent flashcards](https://apps.ankiweb.net/)
+- [Japanese IO](https://www.japanese.io/): Learn Japanese through fun and easy reading practice
 
 ### Game
 
@@ -36,7 +37,6 @@
 ### Dictionary
 
 - [Jisho.org](https://jisho.org/): Japanese Dictionary
-- [Japanese IO](https://www.japanese.io/): Learn Japanese through fun and easy reading practice
 - [RomajiDesu](http://www.romajidesu.com/): Japanese dictionary and translator
 - [Tangorin](https://tangorin.com/sentences): Japanese Dictionary
 - [JMdict-EDICT Dictionary Project - EDRDG Wiki](http://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project)
