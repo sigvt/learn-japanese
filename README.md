@@ -45,3 +45,9 @@
 
 - [Tatoeba](https://tatoeba.org/en/sentences/show_all_in/jpn/none): Tatoeba is a collection of sentences and translations.
 - [Tanaka Corpus](http://www.edrdg.org/wiki/index.php/Tanaka_Corpus): Corpus of parallel Japanese-English sentences
+
+## Other Languages
+
+- [🇮🇩 Learn Bahasa Indonesia (Indonesian) with VTubers](https://github.com/holodata/learn-bahasa-indonesia)
+- [🇩🇪 Learn Deutsch (German) with Hololive](https://github.com/holodata/learn-deutsch)
+- [🇬🇧 Learn English with Hololive](https://github.com/holodata/learn-english)
